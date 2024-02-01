@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mahshid Mehr"
   avatar           : "MyProfile.png"
-  bio              : ""
+  bio              : 
   location         : "West Midlands, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hyMgcLMAAAAJ&hl=en"
@@ -94,12 +94,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/mahshidmehr/"
+  LinkedIn         : "mahshidmehr"
   pinterest        :
   soundcloud       :
   steam            :
