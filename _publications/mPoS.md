@@ -1,9 +1,7 @@
 ---
-title: "Security Analysis of Mobile Point-of-Sale Terminals"
+title: "<a href='https://dl.acm.org/doi/10.1145/3485832.3485887' style='color: #032670;'>OPay: an Orientation-based Contactless Payment Solution Against Passive Attacks
+</a> [<a href='http://Mahshidmehr.github.io/files/OPay.pdf' style='color: #034a03;'>Download PDF</a>]"
 collection: publications
-permalink: /publication/mPoS
-date: 2023-08-07
-venue: 'NSS 2023: Network and System Security'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-39828-5_20'
+date: 2021-12-06
+venue: 'ACSAC '21: Proceedings of the 37th Annual Computer Security Applications Conference'
 ---
-[Download paper here](MahshidMehr.github.io/files/mPoS.pdf)
