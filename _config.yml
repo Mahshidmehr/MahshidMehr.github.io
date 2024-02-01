@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mahshid Mehr"
-  avatar           : "MyProfile.png"
-  bio              : "Research Fellow (Cyber Systems Engineering), Warwick Manufacturing Group (WMG), University of Warwick, Mahshid.Mehr@Warwick.ac.uk"
+  avatar           : "profile.png"
+  bio              : "Mahshid.Mehr@Warwick.ac.uk"
   location         : "West Midlands, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hyMgcLMAAAAJ&hl=en"
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  LinkedIn         : "mahshidmehr"
+  LinkedIn         : "linkedin.com/in/mahshidmehr"
   pinterest        :
   soundcloud       :
   steam            :
