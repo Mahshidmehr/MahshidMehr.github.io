@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hola! I'm Mahshid!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
