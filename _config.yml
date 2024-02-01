@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mahshid Mehr Personal Website"
+title                    : "Mahshid Mehr"
 title_separator          : "-"
 name                     : &name "Mahshid Mehr (Nezhad)"
 description              : &description "personal description"
