@@ -1,5 +1,5 @@
 ---
-title: "Conference and Journal Reviewer"
+title: "Conference and Journal Review"
 collection: talks
 type: ""
 venue: ""
