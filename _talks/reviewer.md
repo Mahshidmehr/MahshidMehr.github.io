@@ -1,7 +1,7 @@
 ---
 title: "Conference and Journal Reviewer"
 collection: talks
-permalink: /talks
+permalink: 
 venue: ""
 location: ""
 ---
