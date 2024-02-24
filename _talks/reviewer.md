@@ -6,14 +6,14 @@ venue: ""
 location: ""
 ---
 
-- International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.
+- International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)
 
-- Journal of Computer Security, 2023.
+- Journal of Computer Security
 
-- International Workshop on Socio-Technical Aspects in Security (STAS), 2023.
+- International Workshop on Socio-Technical Aspects in Security (STAS)
 
-- IEEE Internet of Things Journal, 2021.
+- IEEE Internet of Things Journal
 
-- Journal of Transactions on Dependable and Secure Computing (TDSC), 2021.
+- Journal of Transactions on Dependable and Secure Computing (TDSC)
 
-- IEEE Systems Journal, 2020.
+- IEEE Systems Journal
