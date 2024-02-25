@@ -1,9 +1,5 @@
 ---
 title: "Presentations and Invited Talks"
-collection: 
-type: ""
-venue: ""
-location: ""
 ---
 
 - Presented at [International School on Foundations of Security Analysis and Design (FOSAD)](https://sites.google.com/uniurb.it/fosad/home/fosad-2023/phd-forum) summer school, Bertinoro, Italy, 2023.
