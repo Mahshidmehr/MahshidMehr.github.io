@@ -1,6 +1,6 @@
 ---
 title: "Presentations and Invited Talks"
-collection: talks
+collection: 
 type: ""
 venue: ""
 location: ""
