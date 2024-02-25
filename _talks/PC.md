@@ -1,5 +1,7 @@
 ---
 title: "PC Member and Chair"
+permalink: /talks/
+author_profile: true
 ---
 
 - PC member of [International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)](https://www.aamas2024-conference.auckland.ac.nz/), Demonestration Track, 2023.
