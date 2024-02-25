@@ -1,9 +1,5 @@
 ---
 title: "Conference and Journal Review"
-collection: talks
-type: ""
-venue: ""
-location: ""
 ---
 
 - International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.
