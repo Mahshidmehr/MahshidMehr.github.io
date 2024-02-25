@@ -1,16 +1,10 @@
----
-title: "Conference and Journal Review"
----
+<h3>Conference and Journal Review</h3>
 
-- International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.
-  date: 2024-06-10
-- Journal of Computer Security, 2023.
-  date: 2023-12-01
-- International Workshop on Socio-Technical Aspects in Security (STAS), 2023.
-  date: 2023-09-20
-- IEEE Internet of Things Journal, 2021.
-  date: 2021-08-05
-- Journal of Transactions on Dependable and Secure Computing (TDSC), 2021.
-  date: 2021-04-15
-- IEEE Systems Journal, 2020.
-  date: 2020-11-30
+<ul>
+<li>International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.</li>
+<li>Journal of Computer Security, 2023.</li>
+<li>International Workshop on Socio-Technical Aspects in Security (STAS), 2023.</li>
+<li>IEEE Internet of Things Journal, 2021.</li>
+<li>Journal of Transactions on Dependable and Secure Computing (TDSC), 2021.</li>
+<li>IEEE Systems Journal, 2020.</li>
+</ul>
