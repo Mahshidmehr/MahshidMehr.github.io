@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teach/
 author_profile: true
 redirect_from:
-  - /teaching-1.md
+  - /teaching
 ---
 
 <div class="text-justify">
