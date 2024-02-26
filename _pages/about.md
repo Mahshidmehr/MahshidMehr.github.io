@@ -12,6 +12,7 @@ redirect_from:
   My passion lies in hands-on system security, tackling real-world challenges. My research interest is payment system security and IoT systems security, including smart home energy management, autonomous vehicles, and Internet of Vehicles (IoV) security.   
 </p>
 
-##Highlights
-
-- Test. 
+**Highlights**
+---
+- December 2023: Defended PhD viva successfully. 
+- October 2023: Started Research Fellow position at WMG, Warwick University, working with Prof. Carsten Maple and Prof. Gregory Epiphonia. 
