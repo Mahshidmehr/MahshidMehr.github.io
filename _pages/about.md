@@ -23,6 +23,7 @@ redirect_from:
 - December 2022: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science (WPCCS)](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs23/) Conference, "Computer Security and Network" track, WPCCS'22.
 - December 2021: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science (WPCCS)](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs21/), "Computer Security and Network" track, WPCCS'21.
 - August 2021: Our paper [OPay: an Orientation-based Contactless Payment Solution Against Passive Attacks](https://dl.acm.org/doi/abs/10.1145/3485832.3485887) published at ACSAC'21.
+- June 2021: Completed [SEED Workshop'21](https://seedsecuritylabs.org/workshops/workshop2021.html), a 10-week training bootcamp based on Seed Labs, Online. 
 - February 2021: Our paper [Joint Peak Clipping and Load Scheduling Based on User Behavior Monitoring in an IoT Platform](https://ieeexplore.ieee.org/abstract/document/9151304) won the best paper award in the department of computer science, Ferdowsi University of Mashhad, Iran. 
 - December 2020: Won Best Presentation Award at the [Warwick Postgraduate Colloquium in Computer Science (WPCCS)](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs20/), "Computer Security and Network" track, WPCCS'20.
 - December 2020: Won the 1st place in Capture the Flag (CTF) Group Competition (Trinity) at ACE-CSR Winter School.
