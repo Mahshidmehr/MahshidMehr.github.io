@@ -16,7 +16,7 @@ redirect_from:
 **News**
 ---
 - December 2023: Defended PhD viva successfully. 
-- October 2023: Started Research Fellow position at WMG, Warwick University, working with Prof. [Carsten Maple](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1102) and Prof. [Gregory Epiphonia](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?id=1971531). 
+- October 2023: Started Research Fellow position at WMG, Warwick University, working with Prof. [Carsten Maple](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?wmgid=1102) and Dr. [Gregory Epiphonia](https://warwick.ac.uk/fac/sci/wmg/about/our-people/profile?id=1971531). 
 - September 2023: Submitted PhD thesis “on the security of contactless payment systems”.
 - September 2023: Attended and presented at FOSAD summer school, Bertinoro, Italy. 
 - August 2023: Won Best Student Paper Award for the paper [Security Analysis of mobile Point-of-Sale (mPoS) Terminals](https://dl.acm.org/doi/abs/10.1007/978-3-031-39828-5_20) at 17th International Conference on Network and System Security (NSS), Universitry of Kent, Canterbury, UK. 
