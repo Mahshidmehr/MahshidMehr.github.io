@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-  I'm a Research Fellow at WMG, University of Warwick in the Secure Cyber Systems Research (SCSR) group. I got my PhD in Computer Science from the Department of Computer Science, University of Warwick focusing on the security of payment systems, particularly contactless payment. Additionally, I hold an MSc in Software Engineering (IoT Systems) from Ferdowsi University of Mashhad, Iran, and a BSc in Software Engineering from Semnan University, Iran.
-  My passion lies in hands-on system security, tackling real-world challenges. My research interest is payment system security and IoT systems security, including smart home energy management, autonomous vehicles, and Internet of Vehicles (IoV) security.   
+I am a security engineering researcher passionate about hands-on system security and solving real-world security challenges. With a background in Software Engineering, I hold a Ph.D. in Computer Science from the University of Warwick, where I focused on the security of contactless payment systems.  With over five years of experience in system security, threat modeling, and secure architecture design, I have worked on securing a wide range of technologies, including payment systems, IoT, Edge-AI, and connected autonomous vehicles. Currently, I am a Cyber Systems Engineering Research Fellow at Warwick Manufacturing Group (WMG) within the Secure Cyber Systems Research (SCSR) group.
+
+
+
+
 </p>
 
 
